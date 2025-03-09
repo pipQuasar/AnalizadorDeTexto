@@ -1,4 +1,7 @@
 /*
+  En este código estará documentado el avance de mo código, además me puse algunos objetivos
+    para ir empezando y cumplirlos para que el Analizador posea funcionalidad.
+
   Introducir un texto aleatorio y:
   a) Identificar cuál es la palabra que mas se repite y cuántas veces.
   b) Cantidad de veces que aparezca la letra 'y' y en qué posición aparecieron.
@@ -20,7 +23,7 @@ int main () {
  char oracion[INT32_MAX];
  obtenerOracion(oracion, INT32_MAX);
  // a)
- 
+
 
  for (int c = 0; oracion[c] != ' '; c++)
  {
