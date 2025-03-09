@@ -5,11 +5,10 @@
   Introducir un texto aleatorio y:
   a) Identificar cuál es la palabra que mas se repite y cuántas veces.
   b) Cantidad de veces que aparezca la letra 'y' y en qué posición aparecieron.
-  c) Mostrar la cantidad de veces que aparecieron comas ',' y puntos '.'. 
+  c) Mostrar la cantidad de veces que aparecieron comas ','. 
   d) ¿Cuántos caracteres hay en total?
   e) ¿Cuántas veces se usó espacio ' '?
   f) Informar la cantidad de mayúsculas existentes
-  g) ¿Cuál fué la palabra mas corta? (exeptuando las 'y' y las ',')
 */
 #include <iostream>
 using namespace std;
