@@ -8,6 +8,7 @@
   c) ¿Cuántos caracteres hay en total?
   d) ¿Cuántas veces se usó espacio ' '?
   e) Informar la cantidad de mayúsculas existentes
+  f) 
 */
 #include <iostream>
 #include <cctype>
